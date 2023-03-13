@@ -19,13 +19,9 @@ public class Main {
         nurdolot.FavoriteMusic = "Healdlight";
         nurdolot.FavoriteDidjei = "alok,alan wolker";
         System.out.println("name: "+nurdolot.name+"\n"+"surmane: "+nurdolot.surmane+"\n " +"surnamee: "+ nurdolot.surnamee+"\n"+"age: "+nurdolot.age+"\n"+"ilivein: "+nurdolot.ilivein
-        +"\n"+"meshkoll: "+nurdolot.meshkoll+"\n"+"kurs: "+nurdolot.kurs+"\n"+"rodilsa: "+nurdolot.rodilsa+"\n"+"maheight: "+nurdolot.meheight+"\n"+"favoriteSport: "+nurdolot.favoriteSport
-        +"\n"+"favoriteSubject: "+nurdolot.favoriteSubject+"\n"+"FavoriteColor: "+nurdolot.FavoriteColor+"\n"+"FavoriteFood:" +nurdolot.FavoriteFood+"\n"+"meTelefon: "+nurdolot.meTelefon+"\n"
-        +"meNoutbook: "+nurdolot.meNoutbook+"\n"+"FavoriteMusic: "+nurdolot.FavoriteMusic+"\n"+"FavoriteDidjei: "+nurdolot.FavoriteDidjei);
-
-
-
-
+                +"\n"+"meshkoll: "+nurdolot.meshkoll+"\n"+"kurs: "+nurdolot.kurs+"\n"+"rodilsa: "+nurdolot.rodilsa+"\n"+"maheight: "+nurdolot.meheight+"\n"+"favoriteSport: "+nurdolot.favoriteSport
+                +"\n"+"favoriteSubject: "+nurdolot.favoriteSubject+"\n"+"FavoriteColor: "+nurdolot.FavoriteColor+"\n"+"FavoriteFood:" +nurdolot.FavoriteFood+"\n"+"meTelefon: "+nurdolot.meTelefon+"\n"
+                +"meNoutbook: "+nurdolot.meNoutbook+"\n"+"FavoriteMusic: "+nurdolot.FavoriteMusic+"\n"+"FavoriteDidjei: "+nurdolot.FavoriteDidjei);
 
 
 
