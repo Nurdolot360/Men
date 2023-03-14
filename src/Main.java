@@ -7,6 +7,7 @@ public class Main {
         nurdolot.age = 16;
         nurdolot.ilivein = "Kalinin";
         nurdolot.meshkoll = 28;
+
         nurdolot.kurs = "it";
         nurdolot.rodilsa = "kochkor-ata";
         nurdolot.meheight = 182;
